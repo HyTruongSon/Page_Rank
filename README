@@ -1,0 +1,8 @@
+Project: Page Rank
+Author: Hy Truong Son
+Email: hytruongson@uchicago.edu
+Institution: University of Chicago
+
+Run example of Page Rank
+------------------------
+$ page_rank.py
